@@ -3,8 +3,8 @@
     /**
      * Write a description of class Sky here.
      * 
-     * @author (your name) 
-     * @version (a version number or a date)
+     * @author Prapatsorn Ouisakul 
+     * @version 2
      */
     public class Sky extends Actor
     {

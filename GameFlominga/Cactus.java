@@ -3,8 +3,8 @@
     /**
      * Write a description of class Cactus here.
      * 
-     * @author (your name) 
-     * @version (a version number or a date)
+     * @author Prapatsorn Ouisakul 
+     * @version 2
      */
     public class Cactus extends Actor
     {

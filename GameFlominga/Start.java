@@ -4,7 +4,7 @@
      * Write a description of class Start here.
      * 
      * @author Prapatsorn Ouisakul
-     * @version 1
+     * @version 2
      */
     public class Start extends World
     {
